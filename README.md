@@ -1,1 +1,1 @@
-# odin-recipes
+This project is a simple HTML website for food recipes. in its current state, its purpose is to demonstrate my knowledge of basic HTML. The website consists of a homepage titled index.html, which acts a brief introduction to the websites content, and features links to three recipe pages. 
